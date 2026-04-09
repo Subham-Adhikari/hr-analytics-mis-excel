@@ -40,7 +40,7 @@ Built on **13 years of workforce data (2006–2018)** across **311 employees** a
 
 ---
 
-### 👥 Your workforce is aging — and your pipeline may not know it yet
+### 👥 Workforce is aging — and your pipeline may not know it yet
 
 | Generation | Share of Workforce |
 |---|---|
